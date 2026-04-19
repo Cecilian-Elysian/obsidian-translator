@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-translator",
+  "name": "Obsidian Translator",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Translate plugin settings pages from English to Chinese using MiniMax API",
+  "author": "Cecilian-Elysian",
+  "authorUrl": "https://github.com/Cecilian-Elysian",
+  "fundingUrl": "https://github.com/Cecilian-Elysian/Obsidian-translator",
+  "isDesktopOnly": false
+}
